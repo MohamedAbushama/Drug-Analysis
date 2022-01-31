@@ -1,0 +1,12 @@
+# Conclusion 
+
+> 1. The average age using drug (B) is the highest, and drug(A) used by the least age average among dataset  
+> 2.  we can see that Y and X drug are the most used for both M&F, because Y and X are the most dominant.However, Males count using drug A are higher than Females using the same drug.
+> 3. Y drug is the most dominant drug in the dataset followed by X drug 
+> 4.  Male proportion slightly higher than female in the dataset 
+> 5. With normal BP the most used drugs are X & Y respectively, with high BP Drug B is involved, and with Low BP Drug C is involved
+> 6. We can see that Drug C is used for the high Cholesterol patients besides all the other Drugs with different percentages 
+> 7. We can confirm from this plot that Males using Drug A more than Females, with slightly different usage for the rest of drugs 
+> 8. Normal BP has the lowest average of NA to K, and high BP has the highest average 
+> 9. Drug Y is used for patients whose Na to K ratio is higher than 20, other drugs used for patients whose Na to K ratio below 15
+ 
